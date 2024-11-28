@@ -1,5 +1,5 @@
 # personalpage
-Personal Website Projekt / excersise\
+Personal Website Projekt - excersise
 # exercise
 DONE: Erstelle ein Git-Repository mit dem Namen personalpage.\
 DONE: Klone das Repository in den Ordner htdocs von XAMPP.\
@@ -16,8 +16,8 @@ DONE: Benenne index.html in index.php um.\
 DONE: Verwende und , um die entsprechenden HTML-Tags in index.php zu ersetzen.\
 DONE: Wenn alles funktioniert, führe git add ., git commit -m "funktionales Layout" und git push aus.\
 DONE: Erstelle zwei Seiten, about.php und kontakt.php.\
-Wenn alles funktioniert, führe git add ., git commit -m "Seiten about und kontakt" und git push aus.\
-Entferne alle unnötigen Teile in index.php und führe git add ., git commit -m "index bereinigt" und git push aus.\
-Erstelle in kontakt.php ein Formular mit dem Titel "Kontaktieren Sie mich".\
+DONE: Wenn alles funktioniert, führe git add ., git commit -m "Seiten about und kontakt" und git push aus.\
+DONE: Entferne alle unnötigen Teile in index.php und führe git add ., git commit -m "index bereinigt" und git push aus.\
+DONE: Erstelle in kontakt.php ein Formular mit dem Titel "Kontaktieren Sie mich".\
 Füge in about.php deinen Lebenslauf oder CV hinzu.\
 Lade die Änderungen zu GitHub hoch!

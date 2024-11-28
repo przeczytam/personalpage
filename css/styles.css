@@ -168,6 +168,9 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+.opis{
+  font-size: large;
+}
 
 abbr[title] {
   -webkit-text-decoration: underline dotted;
