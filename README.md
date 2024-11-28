@@ -1,5 +1,5 @@
 # personalpage
-Personal Website Projekt - excersise
+Personal Website Projekt - excercise
 # exercise
 DONE: Erstelle ein Git-Repository mit dem Namen personalpage.\
 DONE: Klone das Repository in den Ordner htdocs von XAMPP.\
