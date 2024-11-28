@@ -5,15 +5,15 @@
         <div class="masthead-heading text-uppercase">Herzlich Wilkommen!</div>
         <div class="opis" >
             <p>Mein Name ist Grzegorz Brzeczyszczykiewicz</p>
-            <p >Ich entwerfe moderne Websites, die auf die Bedürfnisse ehrgeiziger junger Fachkräfte in großen Unternehmen zugeschnitten sind</p>
+            <p >Nutzen Sie meine fundierten Kenntnisse in IT-Systemintegration, um Ihr Team zu stärken!</p>
             <p>
-            Mein Ziel ist es, funktionale und visuell beeindruckende Online-Portfolios zu erstellen, die einen bleibenden Eindruck hinterlassen
+            Setzen Sie auf meine praktische Erfahrung in Netzwerktechnik, Serveradministration und IT-Sicherheit!
             </p>
-            <p>Ich bin spezialisiert auf benutzerfreundliche Designs, die Ihre einzigartigen Fähigkeiten und Erfolge hervorheben</p>
+            <p>Profitieren Sie von meiner Leidenschaft für IT-Systemintegration und meiner Bereitschaft, diese in Ihrem Unternehmen weiter auszubauen!</p>
             <p>
-            Lassen Sie mich Ihnen helfen, sich in der wettbewerbsintensiven Unternehmenswelt mit einer persönlichen, hochmodernen Website abzuheben
+            Lassen Sie mich Ihr Team durch meine Begeisterung für die Betreuung komplexer IT-Lösungen und den direkten Anwenderkontakt bereichern!
             </p>
-            <p>Zusammen können wir eine digitale Präsenz schaffen, die Ihre Professionalität und Ambitionen widerspiegelt</p>
+            <p>Vertrauen Sie auf meine Motivation und Freude daran, in realen Projekten mitzuwirken und zum Erfolg Ihres Unternehmens beizutragen!</p>
 
         </div>
 
