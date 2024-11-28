@@ -19,5 +19,5 @@ DONE: Erstelle zwei Seiten, about.php und kontakt.php.\
 DONE: Wenn alles funktioniert, führe git add ., git commit -m "Seiten about und kontakt" und git push aus.\
 DONE: Entferne alle unnötigen Teile in index.php und führe git add ., git commit -m "index bereinigt" und git push aus.\
 DONE: Erstelle in kontakt.php ein Formular mit dem Titel "Kontaktieren Sie mich".\
-Füge in about.php deinen Lebenslauf oder CV hinzu.\
-Lade die Änderungen zu GitHub hoch!
+DONE: Füge in about.php deinen Lebenslauf oder CV hinzu.\
+DONE: Lade die Änderungen zu GitHub hoch!

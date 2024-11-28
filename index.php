@@ -1,20 +1,19 @@
 <?php require_once "./assets/layout/header.php"; ?>
 <header class="masthead">
     <div class="container">
-        <div class="masthead-subheading">Nice to see you</div>
-        <div class="masthead-heading text-uppercase">WELCOME</div>
+        <div class="masthead-subheading">Schön Sie zu sehen</div>
+        <div class="masthead-heading text-uppercase">Herzlich Wilkommen!</div>
         <div class="opis" >
-            <p>My name is Grzegorz Brzeczyszczykiewicz</p>
-            <p >I design modern websites tailored to the needs of ambitious young professionals in corporate
-                environments</p>
+            <p>Mein Name ist Grzegorz Brzeczyszczykiewicz</p>
+            <p >Ich entwerfe moderne Websites, die auf die Bedürfnisse ehrgeiziger junger Fachkräfte in großen Unternehmen zugeschnitten sind</p>
             <p>
-                My mission is to create functional and visually stunning online portfolios that make an impact
+            Mein Ziel ist es, funktionale und visuell beeindruckende Online-Portfolios zu erstellen, die einen bleibenden Eindruck hinterlassen
             </p>
-            <p>I specialize in user-friendly designs that highlight your unique skills and achievements</p>
+            <p>Ich bin spezialisiert auf benutzerfreundliche Designs, die Ihre einzigartigen Fähigkeiten und Erfolge hervorheben</p>
             <p>
-                Let me help you stand out in the competitive corporate world with a personal, cutting-edge website
+            Lassen Sie mich Ihnen helfen, sich in der wettbewerbsintensiven Unternehmenswelt mit einer persönlichen, hochmodernen Website abzuheben
             </p>
-            <p>Together, we can build a digital presence that reflects your professionalism and ambition</p>
+            <p>Zusammen können wir eine digitale Präsenz schaffen, die Ihre Professionalität und Ambitionen widerspiegelt</p>
 
         </div>
 
